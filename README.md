@@ -171,7 +171,7 @@ Remember, following these guidelines will help ensure a smooth and efficient con
 Please note that this project is released with a [Contributor Code of Conduct](./CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 <hr>
 
-## ✍️ Feedback and Support:
+## ✍️ Feedback and Support ho:
 
 <p style="font-family:var(--ff-philosopher);font-size:2rem;">We love your input! We want to make contributing to this project as easy and transparent as possible, whether it's.
 
